@@ -1,4 +1,8 @@
 # Hi, I'm Muhamad Riko Arafi 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mrikoarafi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mrikoarafi)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rikoarafi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mriko.arafi@gmail.com)
 
 ✔️ I'm currently learning
 - MySQL
@@ -9,8 +13,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node JS, Express JS, Vue JS, React JS
-- 📫 How to reach me: ali.farhan160@gmail.com 
+- 🌱 I’m currently learning Node JS, Express JS, Vue JS, MySQL
+- 📫 How to reach me: mriko.arafi@gmail.com
 
 **Languages and Tools:**  
 
