@@ -5,9 +5,9 @@
 - ExpressJs
 - VueJs
 - NodeJS
-- UI/UX
 - Amazon Web Service
 - Postman
+- UI/UX Web Designer
 - Front-End , Back-End
 - Etc
 
