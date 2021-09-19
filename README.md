@@ -2,8 +2,10 @@
 
 ✔️ I'm know a few things about
 - MySQL
+- MongoDB
 - ExpressJs
 - VueJs
+- React
 - NodeJS
 - Amazon Web Service
 - Postman
