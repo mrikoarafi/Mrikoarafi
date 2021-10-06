@@ -5,7 +5,7 @@
 - MongoDB
 - ExpressJs
 - VueJs
-- React
+- ReactJs
 - NodeJS
 - Amazon Web Service
 - Postman
