@@ -13,9 +13,8 @@
 - Front-End , Back-End
 - Etc
 
-Here are some ideas to get you started:
-- 📫 How to reach me: muhamad.rikoarafi@gmail.com
-- My website: https://mrikoarafi-portfolio.vercel.app/
+📫 How to reach me: muhamad.rikoarafi@gmail.com
+My website: https://mrikoarafi-portfolio.vercel.app/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mrikoarafi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mrikoarafi)
