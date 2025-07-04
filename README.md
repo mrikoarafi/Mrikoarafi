@@ -13,7 +13,6 @@
 - Front-End , Back-End
 - Etc
 
-📫 How to reach me: muhamad.rikoarafi@gmail.com
 My website: https://mrikoarafi-portfolio.vercel.app/
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mrikoarafi)
